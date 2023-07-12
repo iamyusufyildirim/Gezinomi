@@ -1,5 +1,5 @@
 # Gezinomi.com 
-![alt text](https://images.gezinomi.com/filters:quality(100)/filters:format(webp)/assets/banner/2023erkenrezervasyon_web-7.06.2023104459.jpg)
+![Gezinomi](https://images.gezinomi.com/filters:quality(100)/filters:format(webp)/assets/banner/2023erkenrezervasyon_web-7.06.2023104459.jpg)
 İŞ PROBLEMİ: 
 ------------
 Gezinomi yaptığı satışların bazı özelliklerini kullanarak seviye tabanlı (level based) yeni satış tanımları oluşturmak
